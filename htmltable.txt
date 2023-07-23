@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <table>
+      <tr>
+        <th>names</th>
+        <th>contacts</th>
+        <th>email</th>
+        <th>duty</th>
+      </tr>
+      <tr>
+            <td>mary</td>
+            <td>jane</td>
+            <td>joseph</td>
+        </tr> 
+        <tr>
+            <td>07832567</td>
+            <td>098756527</td>
+            <td>45689000</td>
+        </tr>
+        <tr>
+            <td>mary@</td>
+            <td>jani7@</td>
+            <td>jose34@</td>            
+        </tr>
+        <tr>
+            <td>washing clothes</td>
+            <td>cleaning walls</td>
+            <td>sweeping </td>
+        </tr>
+ 
+    </table>
+    
+</body>
+</html>
